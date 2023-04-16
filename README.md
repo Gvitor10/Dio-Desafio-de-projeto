@@ -5,6 +5,7 @@ Este respositório foi criado com o a intenção de compartilhar e acompanhar, a
 > ## Lista de Projetos/Desafios.
 
 - Criando o meu primerio repositório no GitHub. - *26/03/2023*
+- Criando um Curriculo em HTML5. - *16/04/2023*
 
 > ## Links uteis
 
